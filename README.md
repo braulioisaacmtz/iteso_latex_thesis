@@ -1,4 +1,5 @@
 ## Template based on [ITESM-MIT-MasterThesis](https://www.overleaf.com/project/67a8d5d2840f0d9ff5c938e4)
+- [Basic PDF example](example.pdf)
 - Main file [MIT-MasterThesis.tex](src/MIT-MasterThesis.tex)
 - Changed to use `biblatex`
     - Directly inserts bibliography on main file [MIT-MasterThesis.tex:44](src/MIT-MasterThesis.tex#L44)
